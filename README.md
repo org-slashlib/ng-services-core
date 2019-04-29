@@ -18,5 +18,5 @@ Download <code>org.slashlib-ng-services-core-&lt;version&gt;.tgz</code> or
 * Run: <code> grunt </code>
 * Change to build directory: <code> cd build </code>
 * Call <code> ng build </code>
-* Change to dist diectory: <code> npm pack </code>
+* Change to dist directory: <code> npm pack </code>
 * <code> npm install path/to/@org.slashlib-ng-services-core-<version>.tgz</code>
