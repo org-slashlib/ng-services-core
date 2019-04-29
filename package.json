@@ -1,0 +1,27 @@
+{
+  "name": "@org.slashlib/ng-services-core",
+  "version": "0.1.0",
+  "description": "core services for angular6/7",
+  "author": "Dirk Brenckmann <db.developer@gmx.de>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.15.1"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/org-slashlib/ng-services-core.git"
+  },
+  "keywords": [
+    "angular6",
+    "angular7",
+    "services"
+  ],
+  "bugs": {
+    "url": "https://github.com/org-slashlib/ng-services-core/issues"
+  },
+  "homepage": "https://github.com/org-slashlib/ng-services-core#readme"
+}
