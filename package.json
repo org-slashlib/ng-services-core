@@ -1,7 +1,7 @@
 {
   "name": "@org.slashlib/ng-services-core",
   "version": "0.1.0",
-  "description": "core services for angular6/7",
+  "description": "slashlib.org core services for angular6/7",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
   "engines": {

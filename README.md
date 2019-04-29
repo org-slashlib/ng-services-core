@@ -1,11 +1,14 @@
-## angular core services ##
+## org.slashlib core services for angular ##
 
+Basic services for reuse with angular6/7 projects
 
 ## getting started ##
 
 This guide assumes, that you are familiar with the use of npm.  
 
-<code>npm install @org.slashlib/ng-services-i18n --save-dev</code>
+Download <code>org.slashlib-ng-services-core-&lt;version&gt;.tgz</code> or
+
+<code>npm install @org.slashlib/ng-services-core --save-dev</code>
 
 ## building the library ##
 

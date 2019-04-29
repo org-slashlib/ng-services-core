@@ -63,7 +63,7 @@ class Debug extends AbstractMessage {
 export class Log {
   // TODO: private _messages: Message[] = [] as Message[];
   // constructor
-  constructor( public service: SyncLogService ) { }
+  constructor( public service: SyncLoggingService ) { }
   // log a message to the messages
   private log( message: Message ) {
     // TODO: this._messages.push( message );
