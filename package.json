@@ -1,6 +1,6 @@
 {
   "name": "@org.slashlib/ng-services-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "slashlib.org core services for angular6/7",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/org-slashlib/ng-services-core/issues"
   },
-  "homepage": "https://github.com/org-slashlib/ng-services-core#readme"
+  "homepage": "https://github.com/org-slashlib/ng-services-core#readme",
+  "scripts": {
+    "test": "karma start ./config/karma/karma.conf.js"
+  }
 }

@@ -111,6 +111,12 @@ export class SyncLoggingService {
     return this._consumers.delete( name );
   }
   /**
+   *  Returns true, if the named consumer is connected to the service.
+   */
+  public isConnected( name: string ): boolean {
+    return this._consumers.has( name );
+  }
+  /**
    *  Notify the user via the snackbar.
    */
   public notify( message: Message ): void {
