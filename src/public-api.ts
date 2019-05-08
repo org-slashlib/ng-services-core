@@ -1,4 +1,5 @@
-/*
- * Public API Surface of i18n
+/**
+ *  © 2019, slashlib.org.
+ *  Public API Surface of ng-services-core
  */
-export   *                  from "./lib/logging.service";
+export * from "./lib/logging.service";
